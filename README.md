@@ -1,4 +1,13 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hello friend, I'm AndrewBavuels👋</h1>
+</div>
+<img src="https://media.licdn.com/dms/image/D4E16AQHtdI8btrVuJw/profile-displaybackgroundimage-shrink_350_1400/0/1711014475408?e=1720051200&v=beta&t=NPjhB0rFPP5pl7N3XumSPJ0zSl1QmDCcJwzYto7CBS8">
+
+
+## About me
+
+- Data analyst with a background in Industrial Engineering 
+- Upgraded with Python, SQL, and advanced analytics
 
 <!--
 **AndrewBavuels/AndrewBavuels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
