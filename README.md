@@ -9,6 +9,14 @@
 - Data analyst with a background in Industrial Engineering 
 - Upgraded with Python, SQL, and advanced analytics
 
+  ## Data Analytics Project Portfolio
+
+- Power BI: DAX, Power Query and Power Pivot
+- Tableau
+- Python
+- Pandas
+- SQL
+
 <!--
 **AndrewBavuels/AndrewBavuels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
