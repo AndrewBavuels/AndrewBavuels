@@ -9,25 +9,21 @@
 - Data analyst with a background in Industrial Engineering 
 - Upgraded with Python, SQL, and advanced analytics
 
-  ## Data Analytics Project Portfolio
+# Data Analytics Project Portfolio
 
-  ### Programming languages:
+  ## Programming languages:
 - [Python](https://docs.python.org/3/)
-- 
-- #### Python Libraries:
-- [matplotlib.pyplot](https://matplotlib.org/stable/contents.html): For data visualization.
-- [numpy](https://numpy.org/doc/stable/): For mathematical operations and array manipulation.
-- [pandas](https://pandas.pydata.org/docs/reference/frame.html): For data manipulation and analysis.
-- [seaborn](https://seaborn.pydata.org/): For statistical data visualization.
+- [SQL](https://docs.python.org/3/)
+  
+  #### Python Libraries:
+- [pandas]
+- [numpy]
+- [matplotlib.pyplot]
+- [seaborn]
 
-  ### Data Visualization Tools:
-- [Microsoft Power BI](https://powerbi.microsoft.com/): For interactive data visualization and dashboard creation.
-
-- Power BI: DAX, Power Query and Power Pivot
-- Tableau
-- Python
-- Pandas
-- SQL
+  ## Data Visualization Tools:
+- [Microsoft Power BI]: DAX, Power Query and Power Pivot
+- [Tableau]
 
 <!--
 **AndrewBavuels/AndrewBavuels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
