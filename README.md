@@ -16,10 +16,10 @@
 
   
   ### Python Libraries:
-- **pandas**
-- **numpy**
-- **matplotlib.pyplot**
-- **seaborn**
+  - **pandas**
+  - **numpy**
+  - **matplotlib.pyplot**
+  - **seaborn**
 
 - **SQL**
   
