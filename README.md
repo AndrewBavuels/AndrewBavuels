@@ -12,18 +12,18 @@
 # Data Analytics Project Portfolio
 
   ## Programming languages:
-- [Python](https://docs.python.org/3/)
-- [SQL](https://docs.python.org/3/)
+- **Python**
+- **SQL**
   
   #### Python Libraries:
-- [pandas]
-- [numpy]
-- [matplotlib.pyplot]
-- [seaborn]
+- **pandas**
+- **numpy**
+- **matplotlib.pyplot**
+- **seaborn**
 
   ## Data Visualization Tools:
-- [Microsoft Power BI]: DAX, Power Query and Power Pivot
-- [Tableau]
+- **Microsoft Power BI:** DAX, Power Query and Power Pivot
+- **Tableau**
 
 <!--
 **AndrewBavuels/AndrewBavuels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
