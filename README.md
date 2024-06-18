@@ -13,7 +13,7 @@
 
   ## Programming languages:
 - **Python**
-- **SQL**
+
   
   #### Python Libraries:
 - **pandas**
@@ -21,6 +21,8 @@
 - **matplotlib.pyplot**
 - **seaborn**
 
+- **SQL**
+  
   ## Data Visualization Tools:
 - **Microsoft Power BI:** DAX, Power Query and Power Pivot
 - **Tableau**
