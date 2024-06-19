@@ -11,6 +11,10 @@
 
 # Data Analytics Project Portfolio
 
+1. [Business Analytics: EDA with Python, ETL & Power BI](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI)
+2. [Development of KPI Dashboards and Reporting System, using Python, Pandas, and NLP tools](https://github.com/AndrewBavuels/Sentiment-Analysis-for-Customer-Experience-Reporting)
+3. [Python App (Data Pipeline) to locate nearby BiciMAD stations](https://github.com/AndrewBavuels/MAD-Bicycles-through-Data-Pipelines)
+
   ## Programming languages:
 - **Python**
 
