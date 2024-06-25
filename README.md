@@ -6,7 +6,7 @@
 
 ## About me
 
-- Data analyst with a background in Industrial Engineering 
+- Data Professional with a background in Industrial Organization Engineering 
 - Upgraded with Python, SQL, and advanced analytics
 
 # Data Analytics Project Portfolio
