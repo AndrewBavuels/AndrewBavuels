@@ -11,6 +11,37 @@ I am a Data Professional with a background in Industrial Organization Engineerin
 - 📱 Then I am recycling a project in which I developed KPI Dashboards and Reporting Systems, using Python, Pandas, and NLP tools, making them more robust.
 - 👨🏽‍💻 Currently growing my skillset in Machine Learning and Data Analytics.
 
+# Skills and Knowledge
+
+## Data Analysis and Data Science:
+
+- Python: Programming, data manipulation, task automation.
+- Data Exploration: Exploratory Data Analysis (EDA), pattern and trend identification.
+- Modeling and Prediction: Implementation of machine learning models for predictions (e.g., diamond price prediction).
+- Data Manipulation: Use of libraries such as Pandas and NumPy for data transformation and analysis.
+- Descriptive Statistics: Knowledge of statistical techniques for data analysis.
+
+## Data Visualization:
+
+- Tableau and Power BI: Creation of interactive dashboards and effective visualizations for decision-making.
+- DAX: Advanced data analysis and modeling with DAX in Power BI.
+- Storytelling with Data: Communication of insights and results through visualizations.
+
+## Business Analysis:
+
+- Problem Identification: Data analysis for strategic decision-making and process improvement.
+- KPI Development: Creation and monitoring of Key Performance Indicators (KPIs).
+
+## Productivity and Analysis Tools:
+
+- Advanced Excel: Advanced use of Excel for data analysis, creation of complex formulas, and dashboard development.
+- ETL: Extraction, transformation, and loading of data for analysis.
+
+## Databases:
+
+- SQL: Knowledge of database structures and SQL queries.
+
+
 # Data Analytics Project Portfolio
 
 1. [Business Analytics: EDA with Python, ETL & Power BI](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI)
