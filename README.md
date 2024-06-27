@@ -3,11 +3,13 @@
 </div>
 <img src="https://media.licdn.com/dms/image/D4E16AQHtdI8btrVuJw/profile-displaybackgroundimage-shrink_350_1400/0/1711014475408?e=1720051200&v=beta&t=NPjhB0rFPP5pl7N3XumSPJ0zSl1QmDCcJwzYto7CBS8">
 
-
 ## About me
 
-- Data Professional with a background in Industrial Organization Engineering 
-- Upgraded with Python, SQL, and advanced analytics
+I am a Data Professional with a background in Industrial Organization Engineering with over 10 years of experience as a Management Analyst in the service and technology sectors. I have worked on Data Science projects, utilizing Python, SQL, and advanced analytics techniques, that highlight my ability to provide valuable insights and data-driven solutions.
+
+- 💻 Right now, I am working on the first part of a project series about applying advanced analytics, involving **data visualization and predictions with Machine Learning,** regarding Car Fuel Consumption. The main objective of this project is to learn machine learning algorithms and the maths behind them.
+- 📱 Then I am recycling a project in which I developed KPI Dashboards and Reporting Systems, using Python, Pandas, and NLP tools, making them more robust.
+- 👨🏽‍💻 Currently growing my skillset in Machine Learning and Data Analytics.
 
 # Data Analytics Project Portfolio
 
