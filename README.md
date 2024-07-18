@@ -2,7 +2,7 @@
 <h1 align="center">Hello friend, I'm Andrew Bavuels👋</h1>
 </div>
 
-![Holidata](https://github.com/user-attachments/assets/65238f23-ee68-4e6d-8a7f-7e2e42bbc2bb)
+![Holidata](https://github.com/user-attachments/assets/32fe8d55-a720-497c-8aba-3ee94c6482d8)
 
 ## About me
 
