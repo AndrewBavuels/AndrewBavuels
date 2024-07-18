@@ -2,8 +2,6 @@
 <h1 align="center">Hello friend, I'm Andrew Bavuels👋</h1>
 </div>
 
-<img src="https://media.licdn.com/dms/image/D4E16AQHtdI8btrVuJw/profile-displaybackgroundimage-shrink_350_1400/0/1711014475408?e=1720051200&v=beta&t=NPjhB0rFPP5pl7N3XumSPJ0zSl1QmDCcJwzYto7CBS8" alt="Profile Background">
-
 ![Holidata](https://github.com/user-attachments/assets/65238f23-ee68-4e6d-8a7f-7e2e42bbc2bb)
 
 ## About me
