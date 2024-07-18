@@ -1,7 +1,10 @@
 <div align="center">
-<h1 align="center">Hello friend, I'm AndrewBavuels👋</h1>
+<h1 align="center">Hello friend, I'm Andrew Bavuels👋</h1>
 </div>
-<img src="https://media.licdn.com/dms/image/D4E16AQHtdI8btrVuJw/profile-displaybackgroundimage-shrink_350_1400/0/1711014475408?e=1720051200&v=beta&t=NPjhB0rFPP5pl7N3XumSPJ0zSl1QmDCcJwzYto7CBS8">
+
+<img src="https://media.licdn.com/dms/image/D4E16AQHtdI8btrVuJw/profile-displaybackgroundimage-shrink_350_1400/0/1711014475408?e=1720051200&v=beta&t=NPjhB0rFPP5pl7N3XumSPJ0zSl1QmDCcJwzYto7CBS8" alt="Profile Background">
+
+![Holidata](https://github.com/user-attachments/assets/65238f23-ee68-4e6d-8a7f-7e2e42bbc2bb)
 
 ## About me
 
@@ -41,27 +44,25 @@ I am a Data Professional with a background in Industrial Organization Engineerin
 
 - SQL: Knowledge of database structures and SQL queries.
 
-
 # Data Analytics Project Portfolio
 
 1. [Business Analytics: EDA with Python, ETL & Power BI](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI)
 2. [Development of KPI Dashboards and Reporting System, using Python, Pandas, and NLP tools](https://github.com/AndrewBavuels/Sentiment-Analysis-for-Customer-Experience-Reporting)
 3. [Python App (Data Pipeline) to locate nearby BiciMAD stations](https://github.com/AndrewBavuels/MAD-Bicycles-through-Data-Pipelines)
 
-  ## Programming languages:
+## Programming languages:
 - **Python**
 
-  
-  ### Python Libraries:
+### Python Libraries:
   - **pandas**
   - **numpy**
   - **matplotlib.pyplot**
   - **seaborn**
 
 - **SQL**
-  
-  ## Data Visualization Tools:
-- **Microsoft Power BI:** DAX, Power Query and Power Pivot
+
+## Data Visualization Tools:
+- **Microsoft Power BI:** DAX, Power Query, and Power Pivot
 - **Tableau**
 
 <!--
