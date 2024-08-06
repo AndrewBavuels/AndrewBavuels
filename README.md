@@ -13,58 +13,31 @@
 - 💻 **I have completed** the first part of a project series focusing on **data visualization and predictions with Machine Learning**, specifically related to Car Fuel Consumption. This phase was more centered around Exploratory Data Analysis (EDA), providing a solid foundation for the subsequent prediction models.
 - 🔄 **Currently, I am preparing to advance to the second part of this series**, which will involve **making predictions** based on the insights from the EDA. To enhance the quality of these predictions, I am dedicating time to reinforce my understanding of Machine Learning concepts, including Principal Component Analysis (PCA).
 
-# Skills and Knowledge
+## Data Analysis and Data Science - Skills and Expertise:
 
-## Data Analysis and Data Science:
+- Data Analysis and Science: Proficient in Python for data manipulation, Exploratory Data Analysis (EDA), and machine learning modeling.
+- Data Visualization: Experienced with Tableau and Power BI, including advanced features like DAX for creating interactive dashboards.
+- Business Analysis: Skilled in identifying problems, developing KPIs, and using data to drive strategic decision-making.
+- Productivity Tools: Advanced user of Excel and ETL processes for efficient data handling.
+- Databases: Knowledgeable in SQL for data querying and management.
 
-- Python: Programming, data manipulation, task automation.
-- Data Exploration: Exploratory Data Analysis (EDA), pattern and trend identification.
-- Modeling and Prediction: Implementation of machine learning models for predictions (e.g., diamond price prediction).
-- Data Manipulation: Use of libraries such as Pandas and NumPy for data transformation and analysis.
-- Descriptive Statistics: Knowledge of statistical techniques for data analysis.
+## Tutorials & Resources 📚
+- Command Line in WSL Terminal: Guide to using the command line in Windows Subsystem for Linux.
+- Git and GitHub for Project Management: Best practices for managing projects with Git and GitHub.
+- 
+## Connect With Me 🤝
+Feel free to connect or reach out on:
 
-## Data Visualization:
+- [LinkedIn](https://www.linkedin.com/in/andres-buelvas-diago/)
+- [X (formerly Twitter)](https://x.com/Andrew_Bavuels)
+- 📧 **Email:** [andres.buelvas.diago.01@gmail.com](andres.buelvas.diago.01@gmail.com)
 
-- Tableau and Power BI: Creation of interactive dashboards and effective visualizations for decision-making.
-- DAX: Advanced data analysis and modeling with DAX in Power BI.
-- Storytelling with Data: Communication of insights and results through visualizations.
-
-## Business Analysis:
-
-- Problem Identification: Data analysis for strategic decision-making and process improvement.
-- KPI Development: Creation and monitoring of Key Performance Indicators (KPIs).
-
-## Productivity and Analysis Tools:
-
-- Advanced Excel: Advanced use of Excel for data analysis, creation of complex formulas, and dashboard development.
-- ETL: Extraction, transformation, and loading of data for analysis.
-
-## Databases:
-
-- SQL: Knowledge of database structures and SQL queries.
-
-# Data Analytics Project Portfolio
-
-1. [Business Analytics: EDA with Python, ETL & Power BI](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI)
-2. [Development of KPI Dashboards and Reporting System, using Python, Pandas, and NLP tools](https://github.com/AndrewBavuels/Sentiment-Analysis-for-Customer-Experience-Reporting)
-3. [Python App (Data Pipeline) to locate nearby BiciMAD stations](https://github.com/AndrewBavuels/MAD-Bicycles-through-Data-Pipelines)
-
-## Programming languages:
-- **Python**
-
-### Python Libraries:
-  - **pandas**
-  - **numpy**
-  - **matplotlib.pyplot**
-  - **seaborn**
-
-- **SQL**
-
-## Data Visualization Tools:
-- **Microsoft Power BI:** DAX, Power Query, and Power Pivot
-- **Tableau**
+**Holidata** represents my ongoing commitment to harnessing data for meaningful impact and innovation. Explore my projects to see how I transform data into actionable insights and solutions.
 
 📫 I’m currently seeking new opportunities where I can leverage my skills in data analysis, data science, and machine learning to drive impactful results. If you know of any roles or projects that could be a great fit, I’d love to hear from you!
+
+**Credits:** Andres Buelvas Diago (a.k.a Andrew Bavuels)
+**Last Updated:** August 6, 2024
 <!--
 **AndrewBavuels/AndrewBavuels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
