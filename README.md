@@ -36,12 +36,9 @@ Feel free to connect or reach out on:
 
 📫 I’m currently seeking new opportunities where I can leverage my skills in data analysis, data science, and machine learning to drive impactful results. If you know of any roles or projects that could be a great fit, I’d love to hear from you!
 
-**Credits:** Andres Buelvas Diago (a.k.a Andrew Bavuels)
+**Credits:** Andrés Buelvas Diago (a.k.a. Andrew Bavuels)  
 **Last Updated:** August 6, 2024
 
-| **Credits:**                       | Andrés Buelvas Diago (a.k.a. Andrew Bavuels) |
-|-----------------------------------|----------------------------------------------|
-| **Last Updated:**                 | August 6, 2024                              |
 
 <!--
 **AndrewBavuels/AndrewBavuels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
