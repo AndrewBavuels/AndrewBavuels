@@ -4,9 +4,11 @@
 
 ![Holidata](https://github.com/user-attachments/assets/32fe8d55-a720-497c-8aba-3ee94c6482d8)
 
-## Welcome to Holidata 🚀
+# Welcome to Holidata 🚀
 
-**Holidata** is my data-driven portfolio showcasing a variety of projects in Data Analysis and Data Science. Based in Madrid, I work remotely to turn data into actionable insights and innovative solutions.
+**Holidata** is my data-driven portfolio showcasing a variety of projects in Data Analysis and Data Science. Based in Madrid, I work remotely to turn data into actionable insights and innovative solutions. I am currently seeking new opportunities to apply my skills and make an impact in the data field.
+
+## Current Projects 🛠️
 
 - 💻 **I have completed** the first part of a project series focusing on **data visualization and predictions with Machine Learning**, specifically related to Car Fuel Consumption. This phase was more centered around Exploratory Data Analysis (EDA), providing a solid foundation for the subsequent prediction models.
 - 🔄 **Currently, I am preparing to advance to the second part of this series**, which will involve **making predictions** based on the insights from the EDA. To enhance the quality of these predictions, I am dedicating time to reinforce my understanding of Machine Learning concepts, including Principal Component Analysis (PCA).
@@ -62,6 +64,7 @@
 - **Microsoft Power BI:** DAX, Power Query, and Power Pivot
 - **Tableau**
 
+📫 I’m currently seeking new opportunities where I can leverage my skills in data analysis, data science, and machine learning to drive impactful results. If you know of any roles or projects that could be a great fit, I’d love to hear from you!
 <!--
 **AndrewBavuels/AndrewBavuels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
