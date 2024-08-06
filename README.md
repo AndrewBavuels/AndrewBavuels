@@ -30,7 +30,7 @@ Feel free to connect or reach out on:
 
 - [LinkedIn](https://www.linkedin.com/in/andres-buelvas-diago/)
 - [X (formerly Twitter)](https://x.com/Andrew_Bavuels)
-- 📧 **Email:** [andres.buelvas.diago.01@gmail.com](andres.buelvas.diago.01@gmail.com)
+- 📧 **Email:** [andres.buelvas.diago.01@gmail.com](mailto:andres.buelvas.diago.01@gmail.com)
 
 **Holidata** represents my ongoing commitment to harnessing data for meaningful impact and innovation. Explore my projects to see how I transform data into actionable insights and solutions.
 
@@ -38,6 +38,9 @@ Feel free to connect or reach out on:
 
 **Credits:** Andres Buelvas Diago (a.k.a Andrew Bavuels)
 **Last Updated:** August 6, 2024
+
+**Credits:** Andrés Buelvas Diago (a.k.a. Andrew Bavuels)  
+&nbsp;&nbsp;&nbsp;&nbsp;**Last Updated:** August 6, 2024
 <!--
 **AndrewBavuels/AndrewBavuels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
