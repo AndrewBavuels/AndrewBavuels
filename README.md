@@ -39,8 +39,10 @@ Feel free to connect or reach out on:
 **Credits:** Andres Buelvas Diago (a.k.a Andrew Bavuels)
 **Last Updated:** August 6, 2024
 
-**Credits:** Andrés Buelvas Diago (a.k.a. Andrew Bavuels)  
-&nbsp;&nbsp;&nbsp;&nbsp;**Last Updated:** August 6, 2024
+| **Credits:**                       | Andrés Buelvas Diago (a.k.a. Andrew Bavuels) |
+|-----------------------------------|----------------------------------------------|
+| **Last Updated:**                 | August 6, 2024                              |
+
 <!--
 **AndrewBavuels/AndrewBavuels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
