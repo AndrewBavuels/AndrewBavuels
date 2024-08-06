@@ -4,13 +4,12 @@
 
 ![Holidata](https://github.com/user-attachments/assets/32fe8d55-a720-497c-8aba-3ee94c6482d8)
 
-## About me
+## Welcome to Holidata 🚀
 
-I am a Data Professional with a background in Industrial Organization Engineering with over 10 years of experience as a Management Analyst in the service and technology sectors. I have worked on Data Science projects, utilizing Python, SQL, and advanced analytics techniques, that highlight my ability to provide valuable insights and data-driven solutions.
+**Holidata** is my data-driven portfolio showcasing a variety of projects in Data Analysis and Data Science. Based in Madrid, I work remotely to turn data into actionable insights and innovative solutions.
 
-- 💻 Right now, I am working on the first part of a project series about applying advanced analytics, involving **data visualization and predictions with Machine Learning,** regarding Car Fuel Consumption. The main objective of this project is to learn machine learning algorithms and the maths behind them.
-- 📱 Then I am recycling a project in which I developed KPI Dashboards and Reporting Systems, using Python, Pandas, and NLP tools, making them more robust.
-- 👨🏽‍💻 Currently growing my skillset in Machine Learning and Data Analytics.
+- 💻 **I have completed** the first part of a project series focusing on **data visualization and predictions with Machine Learning**, specifically related to Car Fuel Consumption. This phase was more centered around Exploratory Data Analysis (EDA), providing a solid foundation for the subsequent prediction models.
+- 🔄 **Currently, I am preparing to advance to the second part of this series**, which will involve **making predictions** based on the insights from the EDA. To enhance the quality of these predictions, I am dedicating time to reinforce my understanding of Machine Learning concepts, including Principal Component Analysis (PCA).
 
 # Skills and Knowledge
 
