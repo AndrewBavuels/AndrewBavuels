@@ -24,7 +24,7 @@
 ## Tutorials & Resources 📚
 - Command Line in WSL Terminal: Guide to using the command line in Windows Subsystem for Linux.
 - Git and GitHub for Project Management: Best practices for managing projects with Git and GitHub.
-- 
+
 ## Connect With Me 🤝
 Feel free to connect or reach out on:
 
