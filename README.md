@@ -3,7 +3,7 @@
 :computer: **Data Professional**  
 :pencil: **Holidata Content Creator**  
 :eyeglasses: **Computer Freak**  
-:oncoming_music: **Rock Music Fan**  
+:guitar: **Rock Music Fan**  
 :round_pushpin: **Madrid, Spain**
 
 ![Holidata](https://github.com/user-attachments/assets/32fe8d55-a720-497c-8aba-3ee94c6482d8)
@@ -11,8 +11,6 @@
 ## Welcome to Holidata 🚀
 
 **Holidata** is my data-driven portfolio showcasing a variety of projects in Data Analysis and Data Science.
-
-
 
 <!-- ## Data Analysis and Data Science - Skills and Expertise:
 
