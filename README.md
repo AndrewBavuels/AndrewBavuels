@@ -1,3 +1,9 @@
+# Welcome to Holidata 🚀
+
+![Holidata](https://github.com/user-attachments/assets/32fe8d55-a720-497c-8aba-3ee94c6482d8)
+
+**Holidata** is my data-driven portfolio showcasing a variety of projects in Data Analysis and Data Science.
+
 ## Hello friend, I'm Andrew Bavuels👋
 
 :computer: **Data Professional**  
@@ -6,15 +12,10 @@
 :guitar: **Rock Music Fan**  
 :round_pushpin: **Madrid, Spain**
 
-![Holidata](https://github.com/user-attachments/assets/32fe8d55-a720-497c-8aba-3ee94c6482d8)
+## Technology Stack 💻
 
-## Welcome to Holidata 🚀
 
-**Holidata** is my data-driven portfolio showcasing a variety of projects in Data Analysis and Data Science.
-
-### Technology Stack 💻
-
-#### 💾 Databases
+### 💾 Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)
 
@@ -28,21 +29,21 @@
 
 #### 📚 Frameworks, Platforms and Libraries
 
-![Anaconda](https://img.shields.io/badge/Anaconda-30362F?style=for-the-badge&logo=anaconda&logoColor=44A833)  
-![Django](https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=FFFFFF)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=ffffff)    
-![Flask](https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask&logoColor=FFFFFF)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-003366?style=for-the-badge&logo=matplotlib&logoColor=FFCA28)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=4FC3F7)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=ffffff)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-20232A?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)  
+![Anaconda](https://img.shields.io/badge/Anaconda-30362F?style=for-the-badge&logo=anaconda&logoColor=44A833)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-003366?style=for-the-badge&logo=matplotlib&logoColor=FFCA28)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=4FC3F7)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=ffffff)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-20232A?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
 ![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=ffffff)
 
+<!-- ![Django](https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=FFFFFF)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=ffffff)    
+![Flask](https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask&logoColor=FFFFFF)   -->
 ---
 
 #### 💻 IDEs/Editors
 
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-303030?style=for-the-badge&logo=jupyter&logoColor=FFCA28)  
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-303030?style=for-the-badge&logo=jupyter&logoColor=FFCA28)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
@@ -55,8 +56,8 @@
 
 #### 🎛️ Operating Systems
   
-![Ubuntu](https://img.shields.io/badge/Ubuntu-2C001E?style=for-the-badge&logo=ubuntu&logoColor=E95420)  
 ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-2C001E?style=for-the-badge&logo=ubuntu&logoColor=E95420)
 
 ---
 
