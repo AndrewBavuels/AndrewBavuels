@@ -1,16 +1,8 @@
-# Welcome to Holidata 🚀
+# Welcome to Holidata 🚀 I'm Andrew Bavuels👋
 
 ![Holidata](https://github.com/user-attachments/assets/32fe8d55-a720-497c-8aba-3ee94c6482d8)
 
 **Holidata** is my data-driven portfolio showcasing a variety of projects in Data Analysis and Data Science.
-
-## Hello friend, I'm Andrew Bavuels👋
-
-:computer: **Data Professional**  
-:pencil: **Holidata Content Creator**  
-:eyeglasses: **Computer Freak**  
-:guitar: **Rock Music Fan**  
-:round_pushpin: **Madrid, Spain**
 
 ## Technology Stack 💻
 
@@ -68,15 +60,17 @@
 
 ### Connect With Me 🤝
 
+:computer: **Data Professional**  
+:pencil: **Holidata Content Creator**  
+:eyeglasses: **Computer Freak**  
+:guitar: **Rock Music Fan**  
+:round_pushpin: **Madrid, Spain**
+
 Feel free to connect or reach out on:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-buelvas-diago/)
 [![X](https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Andrew_Bavuels)
-
-
-
-
-- 📧 **Email:** [andres.buelvas.diago.01@gmail.com](mailto:andres.buelvas.diago.01@gmail.com)
+[![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:andres.buelvas.diago.01@gmail.com)
 
 **Credits:** Andrés Buelvas Diago (a.k.a. Andrew Bavuels)  
-**Last Updated:** December the 8th, 2024
+**Last Updated:** December the 12th, 2024
