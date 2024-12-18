@@ -1,4 +1,4 @@
-# I'm Andrew Bavuels👋 Welcome to Holidata 🚀
+# Welcome to Holidata 🚀
 
 ![Holidata](https://github.com/user-attachments/assets/32fe8d55-a720-497c-8aba-3ee94c6482d8)
 
