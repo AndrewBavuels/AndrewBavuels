@@ -1,4 +1,4 @@
-# Welcome to Holidata 🚀 I'm Andrew Bavuels👋
+# I'm Andrew Bavuels👋 Welcome to Holidata 🚀
 
 ![Holidata](https://github.com/user-attachments/assets/32fe8d55-a720-497c-8aba-3ee94c6482d8)
 
@@ -6,6 +6,11 @@
 
 ## Technology Stack 💻
 
+### 📋 Languages
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFD43B)
+
+---
 
 ### 💾 Databases
 
@@ -13,13 +18,13 @@
 
 ---
 
-#### 🎓 Education
+<!-- ### 🎓 Education
 
 ![DataCamp](https://img.shields.io/badge/DataCamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
 
----
+--- -->
 
-#### 📚 Frameworks, Platforms and Libraries
+### 📚 Frameworks, Platforms and Libraries
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-30362F?style=for-the-badge&logo=anaconda&logoColor=44A833)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-003366?style=for-the-badge&logo=matplotlib&logoColor=FFCA28)
@@ -33,20 +38,14 @@
 ![Flask](https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask&logoColor=FFFFFF)   -->
 ---
 
-#### 💻 IDEs/Editors
+### 💻 IDEs/Editors
 
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-303030?style=for-the-badge&logo=jupyter&logoColor=FFCA28)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-#### 📋 Languages
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFD43B)
-
----
-
-#### 🎛️ Operating Systems
+### 🎛️ Operating Systems
   
 ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-2C001E?style=for-the-badge&logo=ubuntu&logoColor=E95420)
