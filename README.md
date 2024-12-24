@@ -6,26 +6,8 @@
 
 ## Technology Stack 💻
 
-### 📋 Languages
-
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFD43B)
-
----
-
-### 💾 Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)
-
----
-
-<!-- ### 🎓 Education
-
-![DataCamp](https://img.shields.io/badge/DataCamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
-
---- -->
-
-### 📚 Frameworks, Platforms and Libraries
-
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=49DA57)
 ![Anaconda](https://img.shields.io/badge/Anaconda-30362F?style=for-the-badge&logo=anaconda&logoColor=44A833)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-003366?style=for-the-badge&logo=matplotlib&logoColor=FFCA28)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=4FC3F7)
@@ -38,16 +20,11 @@
 ![Flask](https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask&logoColor=FFFFFF)   -->
 ---
 
-### 💻 IDEs/Editors
+### 💻 IDEs/Editors & 🎛️ Operating Systems
 
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-303030?style=for-the-badge&logo=jupyter&logoColor=FFCA28)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 🎛️ Operating Systems
-  
-![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-2D3035?style=for-the-badge&logo=windows11&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-2C001E?style=for-the-badge&logo=ubuntu&logoColor=E95420)
 
 ---
