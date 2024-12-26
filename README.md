@@ -4,6 +4,8 @@
 
 **Holidata** is my data-driven portfolio showcasing a variety of projects in Data Analysis and Data Science.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewBavuels&show_icons=true&bg_color=000000&title_color=49DA57&text_color=007FFF&icon_color=49DA57)
+
 ### Technology Stack 💻
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFD43B)
@@ -36,8 +38,6 @@ Feel free to connect or reach out on:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-buelvas-diago/)
 [![X](https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Andrew_Bavuels)
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:andres.buelvas.diago.01@gmail.com)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewBavuels&show_icons=true&bg_color=000000&title_color=49DA57&text_color=007FFF&icon_color=49DA57)
 
 **Credits:** Andrés Buelvas Diago (a.k.a. Andrew Bavuels)  
 **Last Updated:** December the 24th, 2024
